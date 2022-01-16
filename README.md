@@ -1,2 +1,2 @@
  ## Author: Saurabh
-# Logistic_Regression_Scratch
+# Linear_Regression_From_Scratch
